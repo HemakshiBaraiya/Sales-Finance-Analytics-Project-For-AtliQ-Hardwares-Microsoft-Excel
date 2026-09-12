@@ -175,7 +175,8 @@ Reassess engagement strategies for moderately growing customers to unlock furthe
 
 #### ✨ Report 3- Profit & Loss Report by Fiscal Years
 
-(https://github.com/user-attachments/assets/21571f5f-f6d0-4a8e-a973-db16b39b62ed)
+<img width="987" height="547" alt="Screenshot 2026-09-12 170642" src="https://github.com/user-attachments/assets/76a36f77-bdc9-4f4c-aa59-b052ec312e23" />
+
 
 
 #### ✨ Report 4- Profit & Loss Report by Months
