@@ -201,11 +201,13 @@ Reassess engagement strategies for moderately growing customers to unlock furthe
 
 #### ✨ Report 4- Profit & Loss Report by Fiscal Years for Market
 
-![Screenshot 2024-12-17 145000](https://github.com/user-attachments/assets/584da636-f7de-45b6-af2f-8bc703a14b42)
+<img width="641" height="766" alt="Screenshot 2026-09-12 182211" src="https://github.com/user-attachments/assets/fda3b502-6f04-4eef-afc1-56f887dd31ec" />
+<img width="605" height="756" alt="Screenshot 2026-09-12 182222" src="https://github.com/user-attachments/assets/2beb686d-9b14-4cdb-af86-3830c031fb03" />
+<img width="585" height="692" alt="Screenshot 2026-09-12 182233" src="https://github.com/user-attachments/assets/1371fd75-cb3d-4fd8-a21b-f3dbf16a24fe" />
 
-![Screenshot 2024-12-17 145006](https://github.com/user-attachments/assets/5aef987b-4683-4415-b5a0-bed6c932d04a)
+#### ✨ Report 5- GM% by Quarters (Sub Zone)
 
-![Screenshot 2024-12-17 145014](https://github.com/user-attachments/assets/cefb16a1-6723-4127-bb12-e8d11de847ab)
+<img width="602" height="737" alt="Screenshot 2026-09-12 182839" src="https://github.com/user-attachments/assets/5fdb108e-00b6-4f18-a243-71f1d8e36fc6" />
 
 ### Key Insights:
 
