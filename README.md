@@ -123,9 +123,10 @@ Strengthen efforts in regions like Indonesia and Portugal, where there is eviden
 
 ### ✨ Report 2- Customer Performance Sales Report
 
-![Screenshot 2024-12-17 143312](https://github.com/user-attachments/assets/e1dbbee2-c1d3-4821-98fc-344eea5ca75f)
+<img width="631" height="745" alt="Screenshot 2026-09-12 170424" src="https://github.com/user-attachments/assets/e7cfc931-f45f-4430-bfbe-1e5bb3d6165f" />
 
-![Screenshot 2024-12-17 143320](https://github.com/user-attachments/assets/674e1faf-29ec-462b-b373-7edfe7d829af)
+<img width="797" height="721" alt="Screenshot 2026-09-12 170450" src="https://github.com/user-attachments/assets/ef0113de-1e54-4260-af76-3c3d7be02af0" />
+
 
 #### ➼ Year-over-Year Growth:
 
@@ -174,23 +175,28 @@ Reassess engagement strategies for moderately growing customers to unlock furthe
 
 #### ✨ Report 3- Profit & Loss Report by Fiscal Years
 
-![Screenshot 2024-12-17 143915](https://github.com/user-attachments/assets/21571f5f-f6d0-4a8e-a973-db16b39b62ed)
+(https://github.com/user-attachments/assets/21571f5f-f6d0-4a8e-a973-db16b39b62ed)
 
 
 #### ✨ Report 4- Profit & Loss Report by Months
 
-![Screenshot 2024-12-17 144127](https://github.com/user-attachments/assets/13360399-ba9b-406e-849a-091f812549ab)
+<img width="1107" height="718" alt="Screenshot 2026-09-12 170739" src="https://github.com/user-attachments/assets/f33e3948-a0cd-4c91-8ffa-2517ecc9fb0f" />
 
-![Screenshot 2024-12-17 144139](https://github.com/user-attachments/assets/2c620e1f-76da-43c2-9fd6-38e6d7236d9f)
+<img width="1097" height="593" alt="Screenshot 2026-09-12 170751" src="https://github.com/user-attachments/assets/3b1fb301-0e7a-4f43-8b76-71cbfcbb8a5a" />
+
 
 #### ✨ Report 4- Profit & Loss Report by Quarters
 
-![Screenshot 2024-12-17 144739](https://github.com/user-attachments/assets/96bab664-b78e-4f71-ab67-9d09706287c2)
+<img width="1141" height="730" alt="Screenshot 2026-09-12 171008" src="https://github.com/user-attachments/assets/f94d84df-8a29-4b51-bb2f-782e0a3a1256" />
+
+<img width="1131" height="685" alt="Screenshot 2026-09-12 171019" src="https://github.com/user-attachments/assets/c6a1c487-48d0-4e29-be58-4bd7e38f4e9f" />
 
 
 #### ✨ Report 4- Profit & Loss Report for Market
 
-![Screenshot 2024-12-17 144923](https://github.com/user-attachments/assets/2b5642bd-b81b-436e-bf8e-fe282a0145dd)
+<img width="816" height="748" alt="Screenshot 2026-09-12 172134" src="https://github.com/user-attachments/assets/5e96f497-5072-4097-b574-8f952cc1e85e" />
+
+
 
 #### ✨ Report 4- Profit & Loss Report by Fiscal Years for Market
 
