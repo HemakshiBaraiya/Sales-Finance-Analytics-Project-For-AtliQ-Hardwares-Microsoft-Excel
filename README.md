@@ -73,7 +73,8 @@ Examined sales trends over time, identified top-performing products, and analyze
 
 ### ✨Report 1 - Market Performance VS Target
 
-![Screenshot 2024-12-17 143243](https://github.com/user-attachments/assets/190cd201-459f-4091-97cb-7c6ebce296a7)
+Target vs performance.png
+
 
 - The report analyzes the performance of Atliq Hardwares across multiple countries from 2019 to 2021 and compares the 2021 sales figures with predefined targets. The data is presented in USD.
 
